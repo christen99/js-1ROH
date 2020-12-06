@@ -10,7 +10,12 @@ n - количество свечек в упаковке.
 
 */ 
 
+/* 
 function showMessage() {
     let message = "hello its me"; 
     console.log ( message );
 }
+
+*/ 
+
+

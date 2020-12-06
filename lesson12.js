@@ -41,3 +41,7 @@ let finalAge = chris(candles, 99);
 console.log(candles + " свечек хватило на " +  finalAge + "лет");
 console.timeEnd("candles");
 
+/*
+ создать функцию simple ()
+в функцию передается число от 50 до 200
+функция выводит 
